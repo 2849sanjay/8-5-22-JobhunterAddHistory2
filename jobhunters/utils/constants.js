@@ -15,5 +15,7 @@
         student : "STUDENT",
         admin : "ADMIN",
         recruiter : "RECRUITER"
-    }
+    } 
+
+
 };
